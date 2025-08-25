@@ -34,11 +34,11 @@ Copy
 Edit
 
 **Ejemplo de body JSON:**
-```json
+
 {
   "title": "The Legend of Zelda: Tears of the Kingdom",
   "genre": "Action-Adventure",
-  "platform": "Nintendo Switch",
+  "platform": "Nintendo Switch"
   "releaseYear": 2023,
   "developer": "Nintendo"
 }
